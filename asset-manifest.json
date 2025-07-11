@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30fc746e.css",
+    "main.js": "/static/js/main.02e5d575.js",
+    "static/js/488.cc0af17a.chunk.js": "/static/js/488.cc0af17a.chunk.js",
+    "static/media/Moon glow LED Night Light Projector.png": "/static/media/Moon glow LED Night Light Projector.c1ac2788cf3b590eb818.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.30fc746e.css.map": "/static/css/main.30fc746e.css.map",
+    "main.02e5d575.js.map": "/static/js/main.02e5d575.js.map",
+    "488.cc0af17a.chunk.js.map": "/static/js/488.cc0af17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30fc746e.css",
+    "static/js/main.02e5d575.js"
+  ]
+}
